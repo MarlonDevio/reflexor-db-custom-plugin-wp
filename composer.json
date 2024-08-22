@@ -1,0 +1,28 @@
+{
+    "name": "marlon/fp-reflexor-dashboard",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "FpReflexorDashboard\\": "backend/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MarlonHamaekersPXL",
+            "email": "mar.hamaekers@gmail.com"
+        }
+    ],
+    "require": {},
+    "style": "default",
+    "tailwind": {
+        "config": "",
+        "css": "",
+        "baseColor": "",
+        "cssVariables": false
+    },
+    "rsc": false,
+    "aliases": {
+        "utils": "",
+        "components": ""
+    }
+}
