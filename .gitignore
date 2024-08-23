@@ -1,72 +1,12 @@
-# Ignore everything in the root directory except wp-content
-/*
-!.gitignore
-!wp-content/
+# Ignore everything in the dist directory
+/dist/*
 
-# Ignore everything in the wp-content directory except plugins, themes, and uploads
-wp-content/*
-!wp-content/plugins/
-!wp-content/themes/
-!wp-content/uploads/
+# But do not ignore the dist directory itself
+!/dist/
 
-# Ignore everything in the plugins directory except your specific plugin
-wp-content/plugins/*
-!wp-content/plugins/fp-reflexor-dashboard/
+# Unignore the manifest.json file specifically
+!/dist/manifest.json
 
-# Ignore unnecessary files in your plugin
-wp-content/plugins/fp-reflexor-dashboard/*.log
-wp-content/plugins/fp-reflexor-dashboard/.DS_Store
-wp-content/plugins/fp-reflexor-dashboard/node_modules/
-wp-content/plugins/fp-reflexor-dashboard/vendor/
-wp-content/plugins/fp-reflexor-dashboard/dist
-# Include config files that are necessary for the project setup
-!wp-content/plugins/fp-reflexor-dashboard/.env.example
-!wp-content/plugins/fp-reflexor-dashboard/.eslintrc
-!wp-content/plugins/fp-reflexor-dashboard/.prettierrc
-!wp-content/plugins/fp-reflexor-dashboard/postcss.config.js
-!wp-content/plugins/fp-reflexor-dashboard/stylelint.config.js
-!wp-content/plugins/fp-reflexor-dashboard/tailwind.config.js
-!wp-content/plugins/fp-reflexor-dashboard/vite.config.js
-
-!plugins/fp-reflexor-dashboard
-# Ignore build artifacts and other generated files
-wp-content/plugins/fp-reflexor-dashboard/dist/*
-!wp-content/plugins/fp-reflexor-dashboard/dist/manifest.json # Keep manifest.json if needed for your build process
-
-# Ignore specific folders in your plugin
-wp-content/plugins/fp-reflexor-dashboard/.vscode/
-wp-content/plugins/fp-reflexor-dashboard/.idea/
-wp-content/plugins/fp-reflexor-dashboard/.env.local
-wp-content/plugins/fp-reflexor-dashboard/.env.development
-wp-content/plugins/fp-reflexor-dashboard/.env.production
-wp-content/plugins/fp-reflexor-dashboard/composer.lock
-wp-content/plugins/fp-reflexor-dashboard/package-lock.json
-wp-content/plugins/fp-reflexor-dashboard/yarn.lock
-
-# Ignore WordPress core files
-wp-admin/
-wp-includes/
-
-# Ignore WordPress uploads (you might want to track uploads in some cases)
-wp-content/uploads/*
-
-# Ignore cache and tmp files
-wp-content/cache/
-wp-content/upgrade/
-wp-content/wflogs/
-wp-content/wp-cache-config.php
-wp-content/advanced-cache.php
-wp-content/object-cache.php
-wp-content/db.php
-wp-content/wp-rocket-config/
-wp-content/mu-plugins/
-
-# Ignore sensitive files
-wp-config.php
-wp-config-*.php
-.htaccess
-.htpasswd
-
-# Ignore system files
-.DS_Store
-Thumbs.db
+/docs
+/node_modules
+/vendor

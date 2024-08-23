@@ -1,0 +1,16 @@
+{
+  "resources/scripts/scripts.js": {
+    "file": "DW-uz74E.js",
+    "name": "scripts",
+    "src": "resources/scripts/scripts.js",
+    "isEntry": true,
+    "css": [
+      "BavUTSiJ.css"
+    ]
+  },
+  "resources/styles/style.css": {
+    "file": "BavUTSiJ.css",
+    "src": "resources/styles/style.css",
+    "isEntry": true
+  }
+}
