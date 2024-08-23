@@ -28,6 +28,8 @@ class Controller
   public function conditionallyInjectJs(): void
   {
 
+      echo FP_ASSETS_URI;
+
     $manifest_path = FP_REFLEXOR_MANIFEST_PATH;
     $manifest_array = json_decode(file_get_contents($manifest_path), true);
     $js_file = $manifest_array['index.html']['file'];
