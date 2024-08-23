@@ -1,63 +1,12 @@
-# WordPress core directories (assuming your plugin is in wp-content/plugins)
-wp-admin/
-wp-includes/
-wp-content/themes/
-wp-content/uploads/
+# Ignore everything in the dist directory
+/dist/*
 
-# Operating system files
-.DS_Store
-Thumbs.db
+# But do not ignore the dist directory itself
+!/dist/
 
-# Logs and databases
-*.log
-*.sql
-*.sqlite
-*.env
+# Unignore the manifest.json file specifically
+!/dist/manifest.json
 
-# Node modules (if using Node.js)
-node_modules/
-npm-debug.log*
-yarn-error.log*
-
-# Composer dependencies (if using Composer)
-vendor/
-composer.lock
-
-# Generated assets
-public/
-dist/
-build/
-*.map
-
-# SASS/SCSS cache
-.sass-cache/
-
-# WordPress-specific files
-wp-config.php
-wp-content/debug.log
-
-# MacOS Finder files
-._*
-
-# Windows thumbnail cache
-Thumbs.db
-
-# PHPStorm files
-.idea/
-
-# Sublime Text project files
-*.sublime-project
-*.sublime-workspace
-
-# VSCodium/Visual Studio Code workspace
-.vscode/
-
-# Local environment files
-*.local
-
-# Exclude your own development environment settings
-.env
-.env.local
-
-# Git itself
-.git/
+/docs
+/node_modules
+/vendor

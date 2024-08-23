@@ -1,0 +1,87 @@
+{
+  "resources/images/certifiziert.jpg": {
+    "file": "BUI_K_Th.jpg",
+    "src": "resources/images/certifiziert.jpg"
+  },
+  "resources/images/circel-kruis.jpg": {
+    "file": "Ge8eX7du.jpg",
+    "src": "resources/images/circel-kruis.jpg"
+  },
+  "resources/images/driehoek.jpg": {
+    "file": "cS7xasXF.jpg",
+    "src": "resources/images/driehoek.jpg"
+  },
+  "resources/images/foot.jpg": {
+    "file": "DCsBi3wV.jpg",
+    "src": "resources/images/foot.jpg"
+  },
+  "resources/images/left.jpg": {
+    "file": "DFsTWPx1.jpg",
+    "src": "resources/images/left.jpg"
+  },
+  "resources/images/made-in-germany.jpg": {
+    "file": "Cre-_oja.jpg",
+    "src": "resources/images/made-in-germany.jpg"
+  },
+  "resources/images/man-vrouw.jpg": {
+    "file": "CZvWzAvP.jpg",
+    "src": "resources/images/man-vrouw.jpg"
+  },
+  "resources/images/niet-strijken.jpg": {
+    "file": "C8Y8C1bH.jpg",
+    "src": "resources/images/niet-strijken.jpg"
+  },
+  "resources/images/pleister.jpg": {
+    "file": "CE50f5DA.jpg",
+    "src": "resources/images/pleister.jpg"
+  },
+  "resources/images/vegan.jpg": {
+    "file": "j_eJ-Xp7.jpg",
+    "src": "resources/images/vegan.jpg"
+  },
+  "resources/images/vierkant-cirkel.jpg": {
+    "file": "DFmVib1D.jpg",
+    "src": "resources/images/vierkant-cirkel.jpg"
+  },
+  "resources/images/washing.jpg": {
+    "file": "BONRH67P.jpg",
+    "src": "resources/images/washing.jpg"
+  },
+  "resources/images/wassen-30.jpg": {
+    "file": "BeoZ9fxG.jpg",
+    "src": "resources/images/wassen-30.jpg"
+  },
+  "resources/scripts/scripts.js": {
+    "file": "CJ8LtVw-.js",
+    "name": "scripts",
+    "src": "resources/scripts/scripts.js",
+    "isEntry": true,
+    "css": [
+      "oo6B1cDG.css"
+    ],
+    "assets": [
+      "BUI_K_Th.jpg",
+      "Ge8eX7du.jpg",
+      "cS7xasXF.jpg",
+      "CZvWzAvP.jpg",
+      "Cre-_oja.jpg",
+      "C8Y8C1bH.jpg",
+      "CE50f5DA.jpg",
+      "DFmVib1D.jpg",
+      "j_eJ-Xp7.jpg",
+      "BeoZ9fxG.jpg",
+      "BONRH67P.jpg",
+      "DFsTWPx1.jpg",
+      "DCsBi3wV.jpg"
+    ]
+  },
+  "resources/styles/style.css": {
+    "file": "oo6B1cDG.css",
+    "src": "resources/styles/style.css",
+    "isEntry": true
+  },
+  "resources/images/Middel 1.svg": {
+    "source": "resources/images/Middel 1.svg",
+    "file": "028d19ad.svg"
+  }
+}
