@@ -43,182 +43,126 @@
     "file": "ByQlRMeN.svg",
     "src": "resources/images/svgs/single-pieces-features/verband-en-therapieschoenen.svg"
   },
-  "resources/scripts/scripts.js": {
-    "file": "BguYmpFa.js",
+  "resources/scripts/scripts.ts": {
+    "file": "DDAhbzmj.js",
     "name": "scripts",
-    "src": "resources/scripts/scripts.js",
+    "src": "resources/scripts/scripts.ts",
     "isEntry": true,
     "css": [
-      "CZVr57Zx.css"
+      "BBT1AN6B.css"
     ]
   },
   "resources/styles/style.css": {
-    "file": "CZVr57Zx.css",
+    "file": "BBT1AN6B.css",
     "src": "resources/styles/style.css",
     "isEntry": true
   },
-  "resources/images/vierkant-cirkel.jpg": {
-    "source": "resources/images/vierkant-cirkel.jpg",
-    "file": "c1f11cca.jpg"
-  },
-  "resources/images/wassen-30.jpg": {
-    "source": "resources/images/wassen-30.jpg",
-    "file": "6fab1c57.jpg"
-  },
-  "resources/images/washing.jpg": {
-    "source": "resources/images/washing.jpg",
-    "file": "9f5a3758.jpg"
-  },
-  "resources/images/vegan.jpg": {
-    "source": "resources/images/vegan.jpg",
-    "file": "f5d38b41.jpg"
-  },
-  "resources/images/man-vrouw.jpg": {
-    "source": "resources/images/man-vrouw.jpg",
-    "file": "b36a34ae.jpg"
-  },
-  "resources/images/niet-strijken.jpg": {
-    "source": "resources/images/niet-strijken.jpg",
-    "file": "20f9ceb3.jpg"
-  },
-  "resources/images/pleister.jpg": {
-    "source": "resources/images/pleister.jpg",
-    "file": "133a9654.jpg"
-  },
-  "resources/images/made-in-germany.jpg": {
-    "source": "resources/images/made-in-germany.jpg",
-    "file": "40b83350.jpg"
-  },
-  "resources/images/left.jpg": {
-    "source": "resources/images/left.jpg",
-    "file": "219b6380.jpg"
-  },
-  "resources/images/foot.jpg": {
-    "source": "resources/images/foot.jpg",
-    "file": "ebe3ce31.jpg"
-  },
-  "resources/images/driehoek.jpg": {
-    "source": "resources/images/driehoek.jpg",
-    "file": "58c326ee.jpg"
-  },
-  "resources/images/circel-kruis.jpg": {
-    "source": "resources/images/circel-kruis.jpg",
-    "file": "0c92ad57.jpg"
-  },
-  "resources/images/Middel 1.svg": {
-    "source": "resources/images/Middel 1.svg",
-    "file": "babb6411.svg"
-  },
-  "resources/images/certifiziert.jpg": {
-    "source": "resources/images/certifiziert.jpg",
-    "file": "247a76bf.jpg"
-  },
-  "resources/images/svgs/was-instructies/wassen-op-60-graden.svg": {
-    "source": "resources/images/svgs/was-instructies/wassen-op-60-graden.svg",
-    "file": "68b2cdae.svg"
+  "resources/images/svgs/was-instructies/niet-chemisch-reinigen.svg": {
+    "source": "resources/images/svgs/was-instructies/niet-chemisch-reinigen.svg",
+    "file": "5b1f55a7.svg"
   },
   "resources/images/svgs/was-instructies/wassen-op-30-graden.svg": {
     "source": "resources/images/svgs/was-instructies/wassen-op-30-graden.svg",
-    "file": "44fd1b37.svg"
+    "file": "b1824818.svg"
   },
   "resources/images/svgs/was-instructies/niet-strijken.svg": {
     "source": "resources/images/svgs/was-instructies/niet-strijken.svg",
-    "file": "f85be1cc.svg"
+    "file": "a6c47a17.svg"
   },
-  "resources/images/svgs/was-instructies/niet-chemisch-reinigen.svg": {
-    "source": "resources/images/svgs/was-instructies/niet-chemisch-reinigen.svg",
-    "file": "a458e61c.svg"
+  "resources/images/svgs/was-instructies/wassen-op-60-graden.svg": {
+    "source": "resources/images/svgs/was-instructies/wassen-op-60-graden.svg",
+    "file": "c7124c60.svg"
   },
   "resources/images/svgs/was-instructies/niet-bleken.svg": {
     "source": "resources/images/svgs/was-instructies/niet-bleken.svg",
-    "file": "97cf0248.svg"
-  },
-  "resources/images/svgs/was-instructies/drogen-toegestaan-lage-temperatuur.svg": {
-    "source": "resources/images/svgs/was-instructies/drogen-toegestaan-lage-temperatuur.svg",
-    "file": "1eb35ef4.svg"
+    "file": "87f1ba23.svg"
   },
   "resources/images/svgs/single-pieces-features/waterafstotend.svg": {
     "source": "resources/images/svgs/single-pieces-features/waterafstotend.svg",
-    "file": "0f3f3644.svg"
+    "file": "51754178.svg"
+  },
+  "resources/images/svgs/was-instructies/drogen-toegestaan-lage-temperatuur.svg": {
+    "source": "resources/images/svgs/was-instructies/drogen-toegestaan-lage-temperatuur.svg",
+    "file": "6a8d71b1.svg"
   },
   "resources/images/svgs/single-pieces-features/warm-gevoerd.svg": {
     "source": "resources/images/svgs/single-pieces-features/warm-gevoerd.svg",
-    "file": "3f7d8930.svg"
+    "file": "c77b83d5.svg"
   },
   "resources/images/svgs/single-pieces-features/vrouwen-model.svg": {
     "source": "resources/images/svgs/single-pieces-features/vrouwen-model.svg",
-    "file": "efab0bb7.svg"
+    "file": "2d4994b7.svg"
   },
   "resources/images/svgs/single-pieces-features/varomembraan.svg": {
     "source": "resources/images/svgs/single-pieces-features/varomembraan.svg",
-    "file": "a0f9099d.svg"
+    "file": "336f4d7f.svg"
   },
   "resources/images/svgs/single-pieces-features/unisex-model.svg": {
     "source": "resources/images/svgs/single-pieces-features/unisex-model.svg",
-    "file": "ff1ffe47.svg"
+    "file": "df507c1e.svg"
   },
   "resources/images/svgs/single-pieces-features/plus-1cm-teenhoogte.svg": {
     "source": "resources/images/svgs/single-pieces-features/plus-1cm-teenhoogte.svg",
-    "file": "935363c8.svg"
+    "file": "2354092b.svg"
   },
   "resources/images/svgs/single-pieces-features/pantoffels.svg": {
     "source": "resources/images/svgs/single-pieces-features/pantoffels.svg",
-    "file": "aea57f35.svg"
+    "file": "e49b3a3e.svg"
   },
   "resources/images/svgs/single-pieces-features/herenmodel.svg": {
     "source": "resources/images/svgs/single-pieces-features/herenmodel.svg",
-    "file": "810b621f.svg"
+    "file": "a8b53688.svg"
   },
   "resources/images/svgs/single-pieces-features/diabetesschoenen.svg": {
     "source": "resources/images/svgs/single-pieces-features/diabetesschoenen.svg",
-    "file": "865934c7.svg"
+    "file": "393da3bb.svg"
   },
   "resources/images/svgs/single-pieces-features/CE-keurmerk.svg": {
     "source": "resources/images/svgs/single-pieces-features/CE-keurmerk.svg",
-    "file": "b8eb41a3.svg"
+    "file": "14591406.svg"
   },
   "resources/images/svgs/shoewidths/verbandschoenwijdte.svg": {
     "source": "resources/images/svgs/shoewidths/verbandschoenwijdte.svg",
-    "file": "9354a8e5.svg"
-  },
-  "resources/images/svgs/gebruikte-materialen/zuiver-lams-scheerwollen-voering.svg": {
-    "source": "resources/images/svgs/gebruikte-materialen/zuiver-lams-scheerwollen-voering.svg",
-    "file": "37d64134.svg"
+    "file": "f01f9398.svg"
   },
   "resources/images/svgs/gebruikte-materialen/zilverpiquevoering.svg": {
     "source": "resources/images/svgs/gebruikte-materialen/zilverpiquevoering.svg",
-    "file": "c33c7a28.svg"
+    "file": "f1c3dfbc.svg"
+  },
+  "resources/images/svgs/gebruikte-materialen/zuiver-lams-scheerwollen-voering.svg": {
+    "source": "resources/images/svgs/gebruikte-materialen/zuiver-lams-scheerwollen-voering.svg",
+    "file": "47e8f375.svg"
   },
   "resources/images/svgs/gebruikte-materialen/tricotvoering.svg": {
     "source": "resources/images/svgs/gebruikte-materialen/tricotvoering.svg",
-    "file": "96c11b41.svg"
+    "file": "c61b42ab.svg"
   },
   "resources/images/svgs/gebruikte-materialen/stretchmateriaal.svg": {
     "source": "resources/images/svgs/gebruikte-materialen/stretchmateriaal.svg",
-    "file": "33b77443.svg"
+    "file": "86abce73.svg"
   },
   "resources/images/svgs/gebruikte-materialen/microvelours.svg": {
     "source": "resources/images/svgs/gebruikte-materialen/microvelours.svg",
-    "file": "9a99d726.svg"
-  },
-  "resources/images/svgs/gebruikte-materialen/meshmateriaal.svg": {
-    "source": "resources/images/svgs/gebruikte-materialen/meshmateriaal.svg",
-    "file": "64580617.svg"
+    "file": "741062d0.svg"
   },
   "resources/images/svgs/gebruikte-materialen/lycra.svg": {
     "source": "resources/images/svgs/gebruikte-materialen/lycra.svg",
-    "file": "477cf968.svg"
+    "file": "52dd3f18.svg"
+  },
+  "resources/images/svgs/gebruikte-materialen/meshmateriaal.svg": {
+    "source": "resources/images/svgs/gebruikte-materialen/meshmateriaal.svg",
+    "file": "462b9f4f.svg"
   },
   "resources/images/svgs/gebruikte-materialen/leder.svg": {
     "source": "resources/images/svgs/gebruikte-materialen/leder.svg",
-    "file": "6fdf8ca9.svg"
+    "file": "8558ab32.svg"
   },
   "resources/images/svgs/gebruikte-materialen/dialinovoering.svg": {
     "source": "resources/images/svgs/gebruikte-materialen/dialinovoering.svg",
-    "file": "9ea65663.svg"
+    "file": "876b4552.svg"
   },
   "resources/images/svgs/gebruikte-materialen/antibacteriele-frottevoering.svg": {
     "source": "resources/images/svgs/gebruikte-materialen/antibacteriele-frottevoering.svg",
-    "file": "ce0116ad.svg"
+    "file": "1c29f379.svg"
   }
 }
