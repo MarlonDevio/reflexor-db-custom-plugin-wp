@@ -11,7 +11,7 @@
     ],
     "curly": [
       "error",
-      "all"
+      "multi-line"
     ],
     "comma-dangle": [
       "error",

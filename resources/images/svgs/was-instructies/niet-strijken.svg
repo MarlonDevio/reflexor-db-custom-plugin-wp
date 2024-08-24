@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.05 10.81">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: .38px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <g id="Laag_1-2" data-name="Laag 1">
+    <g>
+      <path class="cls-2" d="M14.86,2.12L.19,10.62M.19,2.12l14.67,8.5"/>
+      <polygon class="cls-1" points="14.5 9.08 .55 9.08 2.47 3.65 12.47 3.65 14.5 9.08"/>
+      <polyline class="cls-2" points="12.76 4.42 11.18 .19 2.71 .19"/>
+    </g>
+  </g>
+</svg>

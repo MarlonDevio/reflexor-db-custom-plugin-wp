@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16.76 16.14">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-width: .36px;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        fill: #000;
+      }
+
+      .cls-4 {
+        stroke-linejoin: round;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x=".47" y=".45" width="15.81" height="15.24"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" width="16.76" height="16.14"/>
+    </clipPath>
+  </defs>
+  <g id="Laag_1-2" data-name="Laag 1">
+    <g>
+      <rect class="cls-4" x="2.05" y="1.59" width="12.65" height="12.65"/>
+      <g class="cls-1">
+        <path class="cls-3" d="M14.7,7.92c0,3.49-2.83,6.33-6.33,6.33s-6.33-2.83-6.33-6.33S4.89,1.59,8.38,1.59s6.33,2.83,6.33,6.33Z"/>
+      </g>
+      <g class="cls-6">
+        <path class="cls-5" d="M9.17,7.92c0,.44-.36.8-.8.8s-.8-.36-.8-.8.36-.8.8-.8.8.36.8.8"/>
+      </g>
+    </g>
+  </g>
+</svg>

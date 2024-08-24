@@ -1,20 +1,41 @@
 import '../styles/style.css';
-import Cookies from 'js-cookie';
-import {images} from "../images/index.js";
+import { wasInstructies } from '../images/svgs/index.js';
 
+const washingInstructionsRow = document
+  .querySelector('.woocommerce-product-attributes-item--attribute_pa_was-instructies')
+  ?.querySelector('.woocommerce-product-attributes-item__value')
+  ?.querySelector('p');
 
-const summaryContainer = document.querySelector('.entry-summary-items');
+function createIcons(toMatch) {
+  if (!toMatch) return null;
 
-const div = document.createElement('div');
-console.log(summaryContainer)
-console.log(Cookies.get('wp-settings-time-1'));
+  const imageElement = document.createElement('img');
+  imageElement.src = toMatch?.url;
+  imageElement.alt = toMatch?.name;
 
-const innerTable = `
-<div class="border-[0.5px] border-black flex w-full">
-<div class="grid grid-cols-4 gap-2">
-${images.map(images => `<img src=${images} class="w-12 h-12" alt="">`).join('')}
-</div>
-</div>
-`
-div.innerHTML = innerTable;
-summaryContainer.appendChild(div);
+  return imageElement;
+}
+
+function generateImages(instructionContainer) {
+  return instructionContainer.textContent.split(', ').map((text) => {
+    const matchingInstruction = wasInstructies.find((instruction) => instruction.name === text.trim());
+
+    return createIcons(matchingInstruction);
+  });
+}
+
+const images = generateImages(washingInstructionsRow);
+
+washingInstructionsRow.textContent = ' ';
+const container = document.createElement('div');
+container.classList.add('flex', 'gap-2', 'w-full', 'h-full');
+images.forEach((image) => {
+  image.classList.add('w-20', 'h-20');
+  container.appendChild(image);
+});
+
+// const summaryContainer = document.querySelector('.entry-summary-items');
+
+const tabDesc = document.getElementById('tab-description');
+tabDesc.appendChild(container);
+// summaryContainer.appendChild(container);

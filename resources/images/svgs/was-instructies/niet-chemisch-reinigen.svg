@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16.76 16.14">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .38px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="16.76" height="16.14"/>
+    </clipPath>
+  </defs>
+  <g id="Laag_1-2" data-name="Laag 1">
+    <g class="cls-1">
+      <path class="cls-3" d="M14.88,8.07c0,3.59-2.91,6.5-6.5,6.5S1.88,11.66,1.88,8.07,4.79,1.57,8.38,1.57s6.5,2.91,6.5,6.5ZM14.58,1.87L2.18,14.27M2.18,1.87l12.39,12.39"/>
+    </g>
+  </g>
+</svg>
